@@ -11,7 +11,7 @@ Arme perm -> prisel_gweapon {SteamID64}<br>
 HP -> prisel_hpperm {SteamID64}<br>
 Armure -> prisel_permarm {SteamID64}<br>
 Argent -> prisel_addmoney {SteamID64} montant<br>
-Jetons -> prisel_givejetons {SteamID64} montant<br> (Permet de donner des crédits pointshop : https://github.com/adamdburton/pointshop)
+Jetons -> prisel_givejetons {SteamID64} montant (Permet de donner des crédits pointshop : https://github.com/adamdburton/pointshop)<br>
 Munitions perm -> prisel_munperm {SteamID64}<br>
 
 ![Preview](https://i.imgur.com/n8HLSXD.png)
